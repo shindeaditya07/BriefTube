@@ -1,0 +1,14 @@
+streamlit
+langchain
+openai
+faiss-cpu
+python-dotenv
+langchain-community
+langchain-openai
+langchain-groq
+pypdf
+pymupdf
+langchain-text-splitters
+validators==0.28.1
+youtube_transcript_api
+
